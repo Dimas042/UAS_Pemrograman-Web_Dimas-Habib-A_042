@@ -1,0 +1,4 @@
+ID|Nama|Pekerjaan|Alamat|
+1|Keyboard|Keyboard#Keychron K2 WHITE Backlight PLASTIC Frame Wireless Mechanical Keyboard - Red Switch|Rp999.000|img1.jpg
+3|Mouse|Lenovo Legion M600 Wireless / Wired Gaming Mouse GY50X79385|Rp.999.000|LenovoLegion_m-600.jfif
+4|Monitor|LG UltraGear™ 24GN600-B 23.8'' FHD IPS|Rp.279.000|img2.jpg
